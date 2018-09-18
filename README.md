@@ -1,5 +1,5 @@
 # libeluntu
-##An Ubuntu-based distribution optimized to run Minecraft Servers
+### An Ubuntu-based distribution optimized to run Minecraft Servers
 
 Build Instructions:
 
