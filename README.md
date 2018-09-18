@@ -14,6 +14,6 @@ Build Instructions:
 3. Put both files in the same directory (do not decompress the tgz).
 4. Run the following command:
 ```
-$ docker build -t libeluntu:18.04
+$ docker build -t libeluntu:latest
 ```
 
