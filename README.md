@@ -1,6 +1,12 @@
 # libeluntu
 ### An Ubuntu-based distribution optimized to run Minecraft Servers
 
+
+Docker Pull Command for the latest image:
+```
+$ docker pull ddonofrio/libeluntu
+```
+
 Build Instructions:
 
 1. Download the Dockerfile.
@@ -11,7 +17,3 @@ Build Instructions:
 $ docker build -t libeluntu:18.04
 ```
 
-Docker Pull Command for the latest image:
-```
-$ docker pull ddonofrio/libeluntu
-```
